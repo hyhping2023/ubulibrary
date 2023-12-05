@@ -1,0 +1,4 @@
+/home/hyh/code/c++/test6/build/CMakeFiles/calc.dir
+/home/hyh/code/c++/test6/build/CMakeFiles/cal.dir
+/home/hyh/code/c++/test6/build/CMakeFiles/edit_cache.dir
+/home/hyh/code/c++/test6/build/CMakeFiles/rebuild_cache.dir

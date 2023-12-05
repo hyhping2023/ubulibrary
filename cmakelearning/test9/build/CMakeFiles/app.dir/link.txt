@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/src/main.cpp.o -o app   -L/home/hyh/code/c++/test9/lib  -Wl,-rpath,/home/hyh/code/c++/test9/lib ../lib/libcalc.so 
